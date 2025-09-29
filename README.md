@@ -1,5 +1,5 @@
-# 👩‍💻 Karin Tamura
-**Designing services that people love to use**
+# 👩‍💻 Hi! I'm Karin Tamura
+## **Designing services that people love to use**
 
 ---
 
@@ -21,14 +21,22 @@
 - Code Quality: ESLint, Prettier, Flake8, Black, isort, MyPy  
 - Others: Docker Compose, GitHub Actions, Figma, OpenAPI  
 
+
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin-tamura&layout=compact&theme=default)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karin-tamura&show_icons=true&theme=default)
+
+### 🔹 Overall Stats
+![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=karin-tamura&show_icons=true&theme=default)
+
+### 🔹 Language Usage (Top Repos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin-tamura&layout=compact&theme=default)
+
+### 🔹 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karin-tamura&theme=github)
+
+### 🔹 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=karin-tamura&theme=default&hide_border=false)
 
 ---
 
-## 📫 Contact
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](リンクを挿入) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karin-tamura)
