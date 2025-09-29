@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karin Tamura
 
-**Designing services that people love to use**
+## **Designing services that people love to use**
 
 ---
 
