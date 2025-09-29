@@ -10,9 +10,10 @@
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - Others: GitHub Actions, Docker, Figma
 
-## 🔨 Team Development Contributions
 
-以下は Ms.Engineer 在籍時に開発で使用したリポジトリです。  
+# 以下は Ms.Engineer 在籍時に開発で使用したリポジトリです。  
+
+## 🔨 Team Development Contributions
 
 - [Sendai Sick Childcare Search](https://github.com/ms-engineer-bc25-03/sendai-sick-childcare-search.git)
    病児保育施設を検索できるアプリ。
@@ -29,6 +30,7 @@
 
 
  ## 🧑‍💻 Personal Practice Projects
+ 
 - [Section6 Project](https://github.com/ms-engineer-bc25-03/karin_section6.git)
 　ポートフォリオ作ってみた
 
