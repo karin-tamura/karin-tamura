@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Skills
-- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js,Tailwind CSS
 - Backend: Node.js, Express, FastAPI
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - Others: GitHub Actions, Docker, Figma
