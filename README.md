@@ -12,7 +12,7 @@
 
 ---
 
-# 以下は Ms.Engineer 在籍時に開発で使用したリポジトリです。  
+# 以下は Ms.Engineer 在籍時に開発した内容です。  
 
 ## 🔨 Team Development Contributions
 
